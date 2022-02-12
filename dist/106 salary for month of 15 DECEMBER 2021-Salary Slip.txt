@@ -1,0 +1,8 @@
+Name: Govinda Patel
+Contact no. : 810822184710
+Employee id :106
+Transaction id : UNBANK06CA
+HRA: 20.0 %
+DA: 15.0 %
+pf: 10.0 %
+Basic Salary: ?65650.0
